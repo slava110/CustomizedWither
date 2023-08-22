@@ -1,0 +1,9 @@
+[{
+  "modid": "customizedwither",
+  "name": "Customized Wither",
+  "description": "Customize wither behaviour however you want",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "authorList": ["slava_110"],
+  "requiredMods": ["mixinbooter"]
+}]

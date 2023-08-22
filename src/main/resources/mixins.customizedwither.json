@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.slava_110.customizedwither.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinEntityWither",
+    "MixinEntityWitherSkull",
+    "MixinBlock"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mixins.customizedwither.refmap.json"
+}
